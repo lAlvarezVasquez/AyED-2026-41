@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\10_Rectangulos\10_Rectangulos\10_Rectangulos\bin\Debug\10_Rectangulos.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\10_Rectangulos\10_Rectangulos\10_Rectangulos\bin\Debug\10_Rectangulos.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\10_Rectangulos\10_Rectangulos\10_Rectangulos\bin\Debug\10_Rectangulos.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\10_Rectangulos\10_Rectangulos\10_Rectangulos\obj\Debug\10_Rectangulos.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\10_Rectangulos\10_Rectangulos\10_Rectangulos\obj\Debug\10_Rectangulos.pdb
