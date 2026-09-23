@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\10_Cumplidos\10_Cmplidos\10_Cmplidos\bin\Debug\10_Cmplidos.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\10_Cumplidos\10_Cmplidos\10_Cmplidos\bin\Debug\10_Cmplidos.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\10_Cumplidos\10_Cmplidos\10_Cmplidos\bin\Debug\10_Cmplidos.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\10_Cumplidos\10_Cmplidos\10_Cmplidos\obj\Debug\10_Cmplidos.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\10_Cumplidos\10_Cmplidos\10_Cmplidos\obj\Debug\10_Cmplidos.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\10_Cumplidos\10_Cmplidos\10_Cmplidos\obj\Debug\10_Cmplidos.pdb

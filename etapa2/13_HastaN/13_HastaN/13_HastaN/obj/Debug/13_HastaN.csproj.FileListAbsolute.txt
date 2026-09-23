@@ -1,0 +1,8 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\13_HastaN\13_HastaN\13_HastaN\bin\Debug\13_HastaN.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\13_HastaN\13_HastaN\13_HastaN\bin\Debug\13_HastaN.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\13_HastaN\13_HastaN\13_HastaN\bin\Debug\13_HastaN.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\13_HastaN\13_HastaN\13_HastaN\obj\Debug\13_HastaN.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\13_HastaN\13_HastaN\13_HastaN\obj\Debug\13_HastaN.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\AyED-2026-41\etapa2\13_HastaN\13_HastaN\13_HastaN\bin\Debug\13_HastaN.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\AyED-2026-41\etapa2\13_HastaN\13_HastaN\13_HastaN\obj\Debug\13_HastaN.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\AyED-2026-41\etapa2\13_HastaN\13_HastaN\13_HastaN\obj\Debug\13_HastaN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

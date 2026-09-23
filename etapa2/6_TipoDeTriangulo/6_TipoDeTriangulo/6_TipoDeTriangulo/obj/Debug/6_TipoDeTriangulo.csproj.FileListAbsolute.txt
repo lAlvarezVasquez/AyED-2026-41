@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\6_TipoDeTriangulo\6_TipoDeTriangulo\6_TipoDeTriangulo\bin\Debug\6_TipoDeTriangulo.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\6_TipoDeTriangulo\6_TipoDeTriangulo\6_TipoDeTriangulo\bin\Debug\6_TipoDeTriangulo.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\6_TipoDeTriangulo\6_TipoDeTriangulo\6_TipoDeTriangulo\bin\Debug\6_TipoDeTriangulo.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\6_TipoDeTriangulo\6_TipoDeTriangulo\6_TipoDeTriangulo\obj\Debug\6_TipoDeTriangulo.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\6_TipoDeTriangulo\6_TipoDeTriangulo\6_TipoDeTriangulo\obj\Debug\6_TipoDeTriangulo.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\6_TipoDeTriangulo\6_TipoDeTriangulo\6_TipoDeTriangulo\obj\Debug\6_TipoDeTriangulo.pdb

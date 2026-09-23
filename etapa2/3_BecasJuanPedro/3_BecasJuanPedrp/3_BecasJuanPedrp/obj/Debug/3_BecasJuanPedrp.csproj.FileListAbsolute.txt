@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\3_BecasJuanPedro\3_BecasJuanPedrp\3_BecasJuanPedrp\bin\Debug\3_BecasJuanPedrp.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\3_BecasJuanPedro\3_BecasJuanPedrp\3_BecasJuanPedrp\bin\Debug\3_BecasJuanPedrp.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\3_BecasJuanPedro\3_BecasJuanPedrp\3_BecasJuanPedrp\bin\Debug\3_BecasJuanPedrp.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\3_BecasJuanPedro\3_BecasJuanPedrp\3_BecasJuanPedrp\obj\Debug\3_BecasJuanPedrp.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\3_BecasJuanPedro\3_BecasJuanPedrp\3_BecasJuanPedrp\obj\Debug\3_BecasJuanPedrp.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\3_BecasJuanPedro\3_BecasJuanPedrp\3_BecasJuanPedrp\obj\Debug\3_BecasJuanPedrp.pdb

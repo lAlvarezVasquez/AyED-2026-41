@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

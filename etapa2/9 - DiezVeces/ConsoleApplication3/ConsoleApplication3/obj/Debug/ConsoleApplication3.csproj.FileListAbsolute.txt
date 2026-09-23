@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\9 - DiezVeces\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

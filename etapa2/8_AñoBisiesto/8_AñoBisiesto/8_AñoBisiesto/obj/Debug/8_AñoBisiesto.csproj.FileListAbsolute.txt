@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\8_AñoBisiesto\8_AñoBisiesto\8_AñoBisiesto\bin\Debug\8_AñoBisiesto.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\8_AñoBisiesto\8_AñoBisiesto\8_AñoBisiesto\bin\Debug\8_AñoBisiesto.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\8_AñoBisiesto\8_AñoBisiesto\8_AñoBisiesto\bin\Debug\8_AñoBisiesto.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\8_AñoBisiesto\8_AñoBisiesto\8_AñoBisiesto\obj\Debug\8_AñoBisiesto.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\8_AñoBisiesto\8_AñoBisiesto\8_AñoBisiesto\obj\Debug\8_AñoBisiesto.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\8_AñoBisiesto\8_AñoBisiesto\8_AñoBisiesto\obj\Debug\8_AñoBisiesto.pdb

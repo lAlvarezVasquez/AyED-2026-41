@@ -1,0 +1,9 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\bin\Debug\14_HastaQueSI.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\bin\Debug\14_HastaQueSI.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\bin\Debug\14_HastaQueSI.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\obj\Debug\14_HastaQueSI.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\obj\Debug\14_HastaQueSI.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\obj\Debug\14_HastaQueSI.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\AyED-2026-41\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\bin\Debug\14_HastaQueSI.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\AyED-2026-41\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\obj\Debug\14_HastaQueSI.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\AyED-2026-41\etapa2\14_HastaQueSI\14_HastaQueSI\14_HastaQueSI\obj\Debug\14_HastaQueSI.pdb

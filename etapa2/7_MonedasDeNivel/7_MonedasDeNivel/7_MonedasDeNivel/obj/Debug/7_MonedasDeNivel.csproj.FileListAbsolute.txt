@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\7_MonedasDeNivel\7_MonedasDeNivel\7_MonedasDeNivel\bin\Debug\7_MonedasDeNivel.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\7_MonedasDeNivel\7_MonedasDeNivel\7_MonedasDeNivel\bin\Debug\7_MonedasDeNivel.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\7_MonedasDeNivel\7_MonedasDeNivel\7_MonedasDeNivel\bin\Debug\7_MonedasDeNivel.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\7_MonedasDeNivel\7_MonedasDeNivel\7_MonedasDeNivel\obj\Debug\7_MonedasDeNivel.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\7_MonedasDeNivel\7_MonedasDeNivel\7_MonedasDeNivel\obj\Debug\7_MonedasDeNivel.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa2\7_MonedasDeNivel\7_MonedasDeNivel\7_MonedasDeNivel\obj\Debug\7_MonedasDeNivel.pdb
