@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa1\\7_MiResto\\7_MiResto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99CC573-B321-4200-868B-2825374E8B57}|7_MiDivision\\7_MiDivision.csproj|c:\\users\\nacho\\downloads\\ayed-2026-41-main\\ayed-2026-41-main\\etapa1\\7_miresto\\7_miresto\\7_midivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99CC573-B321-4200-868B-2825374E8B57}|7_MiDivision\\7_MiDivision.csproj|solutionrelative:7_midivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa1\\7_MiResto\\7_MiResto\\7_MiDivision\\Program.cs",
+              "RelativeDocumentMoniker": "7_MiDivision\\Program.cs",
+              "ToolTip": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa1\\7_MiResto\\7_MiResto\\7_MiDivision\\Program.cs",
+              "RelativeToolTip": "7_MiDivision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:53:34.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\8_MiResto\8_MiResto\8_MiResto\bin\Debug\8_MiResto.exe.config
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\8_MiResto\8_MiResto\8_MiResto\bin\Debug\8_MiResto.exe
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\8_MiResto\8_MiResto\8_MiResto\bin\Debug\8_MiResto.pdb
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\8_MiResto\8_MiResto\8_MiResto\obj\Debug\8_MiResto.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\8_MiResto\8_MiResto\8_MiResto\obj\Debug\8_MiResto.exe
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\8_MiResto\8_MiResto\8_MiResto\obj\Debug\8_MiResto.pdb

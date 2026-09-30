@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\9_CelciusFarenheit\9_CelsiusFarenheit\9_CelsiusFarenheit\bin\Debug\9_CelsiusFarenheit.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\9_CelciusFarenheit\9_CelsiusFarenheit\9_CelsiusFarenheit\bin\Debug\9_CelsiusFarenheit.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\9_CelciusFarenheit\9_CelsiusFarenheit\9_CelsiusFarenheit\bin\Debug\9_CelsiusFarenheit.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\9_CelciusFarenheit\9_CelsiusFarenheit\9_CelsiusFarenheit\obj\Debug\9_CelsiusFarenheit.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\9_CelciusFarenheit\9_CelsiusFarenheit\9_CelsiusFarenheit\obj\Debug\9_CelsiusFarenheit.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\9_CelciusFarenheit\9_CelsiusFarenheit\9_CelsiusFarenheit\obj\Debug\9_CelsiusFarenheit.pdb

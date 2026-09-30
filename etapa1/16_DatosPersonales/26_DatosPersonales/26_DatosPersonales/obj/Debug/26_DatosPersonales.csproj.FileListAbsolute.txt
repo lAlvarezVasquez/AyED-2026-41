@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\16_DatosPersonales\26_DatosPersonales\26_DatosPersonales\bin\Debug\26_DatosPersonales.exe.config
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\16_DatosPersonales\26_DatosPersonales\26_DatosPersonales\bin\Debug\26_DatosPersonales.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\16_DatosPersonales\26_DatosPersonales\26_DatosPersonales\bin\Debug\26_DatosPersonales.pdb
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\16_DatosPersonales\26_DatosPersonales\26_DatosPersonales\obj\Debug\26_DatosPersonales.exe
+C:\Users\Lab AyED\Documents\11_AlvarezVasquez\etapa0\16_DatosPersonales\26_DatosPersonales\26_DatosPersonales\obj\Debug\26_DatosPersonales.pdb
