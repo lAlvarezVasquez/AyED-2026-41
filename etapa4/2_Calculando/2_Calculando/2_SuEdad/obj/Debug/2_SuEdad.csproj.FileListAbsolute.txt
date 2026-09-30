@@ -1,0 +1,12 @@
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\2_SuEdad\2_SuEdad\2_SuEdad\bin\Debug\2_SuEdad.exe.config
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\2_SuEdad\2_SuEdad\2_SuEdad\bin\Debug\2_SuEdad.exe
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\2_SuEdad\2_SuEdad\2_SuEdad\bin\Debug\2_SuEdad.pdb
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\2_SuEdad\2_SuEdad\2_SuEdad\obj\Debug\2_SuEdad.exe
+C:\Users\Lab AyED\Documents\11AlvarezVasquez\etapa0\2_SuEdad\2_SuEdad\2_SuEdad\obj\Debug\2_SuEdad.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa1\1_SuNombre\1_SuNombre\2_SuEdad\bin\Debug\2_SuEdad.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa1\1_SuNombre\1_SuNombre\2_SuEdad\bin\Debug\2_SuEdad.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa1\1_SuNombre\1_SuNombre\2_SuEdad\bin\Debug\2_SuEdad.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa1\1_SuNombre\1_SuNombre\2_SuEdad\obj\Debug\2_SuEdad.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa1\1_SuNombre\1_SuNombre\2_SuEdad\obj\Debug\2_SuEdad.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa1\1_SuNombre\1_SuNombre\2_SuEdad\obj\Debug\2_SuEdad.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa1\1_SuNombre\1_SuNombre\2_SuEdad\obj\Debug\2_SuEdad.pdb

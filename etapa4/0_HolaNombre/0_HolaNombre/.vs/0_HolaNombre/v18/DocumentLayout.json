@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nacho\\Documents\\GitHub\\AyED-2026-41\\etapa1\\0_HolaMundo\\0_HolaMundo\\",
+  "WorkspaceRootPath": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa 4\\0_HolaNombre\\0_HolaMundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8439046-24D2-4ADA-B267-FBDC03FF9885}|2_SuEdad\\0_HolaMundo.csproj|c:\\users\\nacho\\documents\\github\\ayed-2026-41\\etapa1\\0_holamundo\\0_holamundo\\2_suedad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8439046-24D2-4ADA-B267-FBDC03FF9885}|2_SuEdad\\0_HolaMundo.csproj|c:\\users\\nacho\\downloads\\ayed-2026-41-main\\ayed-2026-41-main\\etapa 4\\0_holanombre\\0_holamundo\\2_suedad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8439046-24D2-4ADA-B267-FBDC03FF9885}|2_SuEdad\\0_HolaMundo.csproj|solutionrelative:2_suedad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\Documents\\GitHub\\AyED-2026-41\\etapa1\\0_HolaMundo\\0_HolaMundo\\2_SuEdad\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa 4\\0_HolaNombre\\0_HolaMundo\\2_SuEdad\\Program.cs",
               "RelativeDocumentMoniker": "2_SuEdad\\Program.cs",
-              "ToolTip": "C:\\Users\\nacho\\Documents\\GitHub\\AyED-2026-41\\etapa1\\0_HolaMundo\\0_HolaMundo\\2_SuEdad\\Program.cs",
+              "ToolTip": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa 4\\0_HolaNombre\\0_HolaMundo\\2_SuEdad\\Program.cs",
               "RelativeToolTip": "2_SuEdad\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T03:56:41.859Z",
               "EditorCaption": ""

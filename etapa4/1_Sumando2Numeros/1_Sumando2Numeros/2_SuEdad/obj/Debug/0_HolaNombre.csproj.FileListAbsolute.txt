@@ -1,0 +1,7 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa 4\1_Sumando2Numeros\1_Sumando2Numeros\2_SuEdad\bin\Debug\2_SuEdad.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa 4\1_Sumando2Numeros\1_Sumando2Numeros\2_SuEdad\bin\Debug\2_SuEdad.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa 4\1_Sumando2Numeros\1_Sumando2Numeros\2_SuEdad\bin\Debug\2_SuEdad.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa 4\1_Sumando2Numeros\1_Sumando2Numeros\2_SuEdad\obj\Debug\0_HolaNombre.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa 4\1_Sumando2Numeros\1_Sumando2Numeros\2_SuEdad\obj\Debug\0_HolaNombre.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa 4\1_Sumando2Numeros\1_Sumando2Numeros\2_SuEdad\obj\Debug\2_SuEdad.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa 4\1_Sumando2Numeros\1_Sumando2Numeros\2_SuEdad\obj\Debug\2_SuEdad.pdb
