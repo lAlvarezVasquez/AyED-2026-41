@@ -1,0 +1,14 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\6_MiPrimerMatriz\6_MIPrimerMatriz\6_MIPrimerMatriz\bin\Debug\6_MIPrimerMatriz.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\6_MiPrimerMatriz\6_MIPrimerMatriz\6_MIPrimerMatriz\bin\Debug\6_MIPrimerMatriz.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\6_MiPrimerMatriz\6_MIPrimerMatriz\6_MIPrimerMatriz\bin\Debug\6_MIPrimerMatriz.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\6_MiPrimerMatriz\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\6_MiPrimerMatriz\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\6_MiPrimerMatriz\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\6_MiPrimerMatriz\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\7 - MatrizAleatoria\6_MIPrimerMatriz\6_MIPrimerMatriz\bin\Debug\6_MIPrimerMatriz.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\7 - MatrizAleatoria\6_MIPrimerMatriz\6_MIPrimerMatriz\bin\Debug\6_MIPrimerMatriz.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\7 - MatrizAleatoria\6_MIPrimerMatriz\6_MIPrimerMatriz\bin\Debug\6_MIPrimerMatriz.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\7 - MatrizAleatoria\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\7 - MatrizAleatoria\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\7 - MatrizAleatoria\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\7 - MatrizAleatoria\6_MIPrimerMatriz\6_MIPrimerMatriz\obj\Debug\6_MIPrimerMatriz.pdb

@@ -1,0 +1,7 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\9_MatrizRotada90\9_MatrizRotada90\SumaDeMatrices\bin\Debug\SumaDeMatrices.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\9_MatrizRotada90\9_MatrizRotada90\SumaDeMatrices\bin\Debug\SumaDeMatrices.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\9_MatrizRotada90\9_MatrizRotada90\SumaDeMatrices\bin\Debug\SumaDeMatrices.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\9_MatrizRotada90\9_MatrizRotada90\SumaDeMatrices\obj\Debug\9_MatrizRotada90.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\9_MatrizRotada90\9_MatrizRotada90\SumaDeMatrices\obj\Debug\9_MatrizRotada90.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\9_MatrizRotada90\9_MatrizRotada90\SumaDeMatrices\obj\Debug\SumaDeMatrices.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\9_MatrizRotada90\9_MatrizRotada90\SumaDeMatrices\obj\Debug\SumaDeMatrices.pdb

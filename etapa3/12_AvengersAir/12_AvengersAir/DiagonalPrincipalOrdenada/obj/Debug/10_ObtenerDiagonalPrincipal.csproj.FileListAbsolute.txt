@@ -1,0 +1,7 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\DiagonalPrincipalOrdenada\obj\Debug\10_ObtenerDiagonalPrincipal.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\DiagonalPrincipalOrdenada\obj\Debug\10_ObtenerDiagonalPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\DiagonalPrincipalOrdenada\obj\Debug\DiagonalPrincipalOrdenada.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\DiagonalPrincipalOrdenada\obj\Debug\DiagonalPrincipalOrdenada.pdb

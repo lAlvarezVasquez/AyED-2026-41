@@ -1,0 +1,7 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\DiagonalPrincipalOrdenada\obj\Debug\11_CalificacionesEstudiantiles.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\DiagonalPrincipalOrdenada\obj\Debug\11_CalificacionesEstudiantiles.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\DiagonalPrincipalOrdenada\obj\Debug\DiagonalPrincipalOrdenada.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\DiagonalPrincipalOrdenada\obj\Debug\DiagonalPrincipalOrdenada.pdb

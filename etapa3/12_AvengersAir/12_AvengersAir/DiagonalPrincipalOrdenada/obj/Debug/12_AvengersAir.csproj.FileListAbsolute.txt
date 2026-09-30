@@ -1,0 +1,7 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\12_AvengersAir\12_AvengersAir\DiagonalPrincipalOrdenada\obj\Debug\12_AvengersAir.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\12_AvengersAir\12_AvengersAir\DiagonalPrincipalOrdenada\obj\Debug\12_AvengersAir.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\12_AvengersAir\12_AvengersAir\DiagonalPrincipalOrdenada\obj\Debug\DiagonalPrincipalOrdenada.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\12_AvengersAir\12_AvengersAir\DiagonalPrincipalOrdenada\obj\Debug\DiagonalPrincipalOrdenada.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\12_AvengersAir\12_AvengersAir\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\12_AvengersAir\12_AvengersAir\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\12_AvengersAir\12_AvengersAir\DiagonalPrincipalOrdenada\bin\Debug\DiagonalPrincipalOrdenada.pdb

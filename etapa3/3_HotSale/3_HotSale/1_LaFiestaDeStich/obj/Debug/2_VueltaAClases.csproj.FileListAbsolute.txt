@@ -1,0 +1,7 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\3_HotSale\3_HotSale\1_LaFiestaDeStich\bin\Debug\1_LaFiestaDeStich.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\3_HotSale\3_HotSale\1_LaFiestaDeStich\bin\Debug\1_LaFiestaDeStich.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\3_HotSale\3_HotSale\1_LaFiestaDeStich\bin\Debug\1_LaFiestaDeStich.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\3_HotSale\3_HotSale\1_LaFiestaDeStich\obj\Debug\2_VueltaAClases.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\3_HotSale\3_HotSale\1_LaFiestaDeStich\obj\Debug\2_VueltaAClases.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\3_HotSale\3_HotSale\1_LaFiestaDeStich\obj\Debug\1_LaFiestaDeStich.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\3_HotSale\3_HotSale\1_LaFiestaDeStich\obj\Debug\1_LaFiestaDeStich.pdb

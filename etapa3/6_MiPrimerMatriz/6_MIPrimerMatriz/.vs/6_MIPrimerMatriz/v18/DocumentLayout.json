@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa3\\6_MiPrimerMatriz\\6_MIPrimerMatriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{912CB77D-9979-483C-9D46-4FA910149ED4}|6_MIPrimerMatriz\\6_MIPrimerMatriz.csproj|c:\\users\\nacho\\downloads\\ayed-2026-41-main\\ayed-2026-41-main\\etapa3\\6_miprimermatriz\\6_miprimermatriz\\6_miprimermatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912CB77D-9979-483C-9D46-4FA910149ED4}|6_MIPrimerMatriz\\6_MIPrimerMatriz.csproj|solutionrelative:6_miprimermatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa3\\6_MiPrimerMatriz\\6_MIPrimerMatriz\\6_MIPrimerMatriz\\Program.cs",
+              "RelativeDocumentMoniker": "6_MIPrimerMatriz\\Program.cs",
+              "ToolTip": "C:\\Users\\nacho\\Downloads\\AyED-2026-41-main\\AyED-2026-41-main\\etapa3\\6_MiPrimerMatriz\\6_MIPrimerMatriz\\6_MIPrimerMatriz\\Program.cs",
+              "RelativeToolTip": "6_MIPrimerMatriz\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:18:49.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _6_MIPrimerMatriz
+namespace _7_MatrizAleatoria
 {
     class Program
     {
@@ -17,13 +17,13 @@ namespace _6_MIPrimerMatriz
             Console.Write("Pon la cantidad de  columnas : ");
             columnas = int.Parse(Console.ReadLine());
             int[,] matriz = new int[filas, columnas];
+            Random random = new Random();
 
             for (int i = 0; i < filas; i++)
             {
                 for (int j = 0; j < columnas; j++)
                 {
-                    Console.Write($"Introduzca un numero en la fila {i}, columna {j}: ");
-                    matriz[i, j] = Convert.ToInt32(Console.ReadLine());
+                    matriz[i, j] = random.Next(1, 101);
                 }
             }
 

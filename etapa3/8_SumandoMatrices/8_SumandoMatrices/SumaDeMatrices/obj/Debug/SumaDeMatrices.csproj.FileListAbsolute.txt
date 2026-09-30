@@ -1,0 +1,13 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\SumaDeMatrices\SumaDeMatrices\bin\Debug\SumaDeMatrices.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\SumaDeMatrices\SumaDeMatrices\bin\Debug\SumaDeMatrices.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\SumaDeMatrices\SumaDeMatrices\bin\Debug\SumaDeMatrices.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\SumaDeMatrices\SumaDeMatrices\obj\Debug\SumaDeMatrices.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\SumaDeMatrices\SumaDeMatrices\obj\Debug\SumaDeMatrices.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\SumaDeMatrices\SumaDeMatrices\obj\Debug\SumaDeMatrices.csprojResolveAssemblyReference.cache
+C:\Users\nacho\Downloads\SumaDeMatrices-20260929T224004Z-1-001\SumaDeMatrices\SumaDeMatrices\bin\Debug\SumaDeMatrices.exe.config
+C:\Users\nacho\Downloads\SumaDeMatrices-20260929T224004Z-1-001\SumaDeMatrices\SumaDeMatrices\bin\Debug\SumaDeMatrices.exe
+C:\Users\nacho\Downloads\SumaDeMatrices-20260929T224004Z-1-001\SumaDeMatrices\SumaDeMatrices\bin\Debug\SumaDeMatrices.pdb
+C:\Users\nacho\Downloads\SumaDeMatrices-20260929T224004Z-1-001\SumaDeMatrices\SumaDeMatrices\obj\Debug\SumaDeMatrices.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\SumaDeMatrices-20260929T224004Z-1-001\SumaDeMatrices\SumaDeMatrices\obj\Debug\SumaDeMatrices.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\SumaDeMatrices-20260929T224004Z-1-001\SumaDeMatrices\SumaDeMatrices\obj\Debug\SumaDeMatrices.exe
+C:\Users\nacho\Downloads\SumaDeMatrices-20260929T224004Z-1-001\SumaDeMatrices\SumaDeMatrices\obj\Debug\SumaDeMatrices.pdb

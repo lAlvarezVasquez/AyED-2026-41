@@ -1,0 +1,7 @@
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\0_CargandoEdades\0_CargandoEdades\0_CargandoEdades\bin\Debug\0_CargandoEdades.exe.config
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\0_CargandoEdades\0_CargandoEdades\0_CargandoEdades\bin\Debug\0_CargandoEdades.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\0_CargandoEdades\0_CargandoEdades\0_CargandoEdades\bin\Debug\0_CargandoEdades.pdb
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\0_CargandoEdades\0_CargandoEdades\0_CargandoEdades\obj\Debug\0_CargandoEdades.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\0_CargandoEdades\0_CargandoEdades\0_CargandoEdades\obj\Debug\0_CargandoEdades.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\0_CargandoEdades\0_CargandoEdades\0_CargandoEdades\obj\Debug\0_CargandoEdades.exe
+C:\Users\nacho\Downloads\AyED-2026-41-main\AyED-2026-41-main\etapa3\0_CargandoEdades\0_CargandoEdades\0_CargandoEdades\obj\Debug\0_CargandoEdades.pdb
